@@ -9,14 +9,14 @@ Plateforme: https://learngitbranching.js.org/?locale=fr_FR
 
 ## HTML
 Cours: https://www.w3schools.com/html/default.asp.  
-Exercices: https://www.w3schools.com/html/exercise.asp
+Exercices: https://www.w3schools.com/html/exercise.asp  
 
 ## CSS
-Cours: https://www.w3schools.com/css/
+Cours: https://www.w3schools.com/css/  
 Exercices: https://www.w3schools.com/css/exercise.asp
 
 ## Apprentissage ludique débutant JS / Python
-tutoriel: https://edabit.com/tutorials
+tutoriel: https://edabit.com/tutorials  
 Challenges: https://edabit.com/challenges
 
 ## Liste des codes HTTP
